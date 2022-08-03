@@ -1,0 +1,5 @@
+manifest_version: 1
+name: TagsCopier
+description: "Copy tags from given level to all chunks"
+url: https://github.com/alexcg1/executor-tags-copier
+keywords: [tagging]
